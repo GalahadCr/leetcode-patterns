@@ -52,5 +52,11 @@ Each problem is documented like this:
 - Preparing for backend engineering interviews
 
 ---
+## 📂 Structure
+
+Each problem contains:
+- Explanation (README.md)
+- Clean Python solution
+- Pattern classification
 
 ## 📈 Philosophy
